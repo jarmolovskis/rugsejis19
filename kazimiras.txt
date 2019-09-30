@@ -1,5 +1,5 @@
 <div class="kitas">
-
+	Kolegos kodas
 </div>
 <div class="parallax">
 	Kazimiro kodas

@@ -2,5 +2,5 @@
 
 </div>
 <div class="parallax">
-	
+	Kazimiro kodas
 </div>

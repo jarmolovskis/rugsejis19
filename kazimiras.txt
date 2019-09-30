@@ -1,1 +1,6 @@
-Mano tekstas
+<div class="kitas">
+
+</div>
+<div class="parallax">
+	
+</div>
